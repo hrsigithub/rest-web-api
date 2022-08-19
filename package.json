@@ -1,0 +1,16 @@
+{
+  "name": "rest-web-api",
+  "version": "1.0.0",
+  "description": "npm i --save とは何か？",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json": "json-server --watch ./models/db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
