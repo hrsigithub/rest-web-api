@@ -35,3 +35,8 @@ npm i -D json-server
 
 ### OPTIONS 
 `curl -X OPTIONS "http://localhost:3000/episodes" -v`
+------------
+npm i express sqlite3 body-parser 
+
+拡張機能をインスコすれば、npm のsqlite3不要
+SQLite導入
